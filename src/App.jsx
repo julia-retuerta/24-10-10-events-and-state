@@ -1,5 +1,7 @@
+import Counter from './components/counter/Counter';
+
 const App = () => {
-  return <h1>REACT</h1>;
+  return <Counter />;
 };
 
 export default App;
